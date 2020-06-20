@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicNotification</string>
+    <string name="notification_demo_txt">Want to send a demo notification? Please press the button.</string>
+    <string name="notification_txt">Notification</string>
+    <string name="received_notification_txt">Hurrah! You have received a notification.</string>
+    <string name="write_your_message_txt">Hey, please write your message</string>
+    <string name="channel_name_txt">Android Channel</string>
+    <string name="channel_description_txt">It is an example Channel</string>
+</resources>
